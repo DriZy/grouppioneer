@@ -1,0 +1,21 @@
+*** Change Log ***
+18 september 2017- Version 1.0
+	INITIAL RELEASE
+
+19 September 2017- Version 1.1
+	FIXED! Some styling issues
+	UPDATED! Template one page
+
+20 September 2017- Version 1.2
+	UPDATED! Revolution slider plugin
+	UPDATED! Visual Composer plugin
+	UPDATED! Capital core plugin
+
+27 September 2017- Version 1.3
+	FIXED! Pagination coming above the posts in VC shortcodes
+	FIXED! Style not working for VC section in footer.php
+	UPDATED! Capital Core plugin
+
+22 October 2017- Version 1.4
+	UPDATED! Revolution slider plugin
+	UPDATED! Visual Composer plugin

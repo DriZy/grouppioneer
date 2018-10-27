@@ -1,0 +1,9 @@
+2018-09-28T22:10:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function capital_compiler_action(), 2 passed in /home/drizy/Site/grouppioneer/wp-includes/class-wp-hook.php on line 286 and exactly 3 expected in /home/drizy/Site/grouppioneer/wp-content/themes/capital/framework/barebones-config.php:6907
+Stack trace:
+#0 /home/drizy/Site/grouppioneer/wp-includes/class-wp-hook.php(286): capital_compiler_action(Array, '.content{paddin...')
+#1 /home/drizy/Site/grouppioneer/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/drizy/Site/grouppioneer/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/drizy/Site/grouppioneer/wp-content/plugins/redux-framework/ReduxCore/inc/extensions/customizer/extension_customizer.php(667): do_action('redux/options/c...', Array, '.content{paddin...')
+#4 /home/drizy/Site/grouppioneer/wp-includes/class-wp-hook.php(286): ReduxFramework_extension_customizer->customizer_save_after(Object(WP_Customize_Manager))
+#5 /home/drizy/Site/grouppioneer/wp-includes/class-wp-ho
+
